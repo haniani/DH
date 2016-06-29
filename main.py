@@ -90,7 +90,7 @@ class sql_worker:
 
 def main():
     USER = "root"
-    PASSWD = "089567"
+    PASSWD = "12345"
     HOST = "localhost"
     CHARSET = "utf8mb4"
     DATABASE = "music"
