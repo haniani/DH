@@ -18,6 +18,6 @@ main.py - скрипт, позволяющий получить словари �
 
 
 
-![alt text](https://github.com/haniani/DH/blob/master/First%20correlation%20plot.png "First correlation plot")
+![alt text](https://github.com/haniani/DH/blob/master/1.png "First correlation plot")
 
-![alt text](https://github.com/haniani/DH/blob/master/Second%20correlation%20plot.png "Second correlation plot")
+![alt text](https://github.com/haniani/DH/blob/master/2.png "Second correlation plot")
